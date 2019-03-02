@@ -1,0 +1,13 @@
+name: OorlogSimulatie
+main: me.zakpatat.Main
+author: ZakPatat
+version: 1.0
+commands:
+commands:
+   arena:
+     description: Main command
+     usage: /<command> []
+   oorlogsimulatie:
+     description: Main command
+     usage: /<command> []
+     aliases: [os]
